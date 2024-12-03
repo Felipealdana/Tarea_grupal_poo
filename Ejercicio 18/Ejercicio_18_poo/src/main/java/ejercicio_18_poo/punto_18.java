@@ -1,6 +1,7 @@
 /*
- * Permacomosimulator
+ * Permacomosimulator trolo
  */
+
 
 package ejercicio_18_poo;
 
