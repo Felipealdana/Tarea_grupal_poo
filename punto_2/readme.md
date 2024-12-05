@@ -8,12 +8,16 @@ Además, se incluye un archivo de prueba `prueba_figuras.py` donde se testean la
 
 La estructura de carpetas del proyecto es la siguiente:
 
-figuras/  
-    ├── __init__.py # Archivo de inicialización para el paquete 
-    ├── circulo.py # Clase para representar un círculo 
-    ├── cuadrado.py # Clase para representar un cuadrado 
-    ├── rectangulo.py # Clase para representar un rectángulo 
-    └── triangulo_rectangulo.py # Clase para representar un triángulo rectángulo │ prueba_figuras.py # Archivo de prueba para testear las clases
+```bash
+figuras/
+├── __init__.py             # Archivo de inicialización para el paquete
+├── circulo.py              # Clase para representar un círculo
+├── cuadrado.py             # Clase para representar un cuadrado
+├── rectangulo.py           # Clase para representar un rectángulo
+├── triangulo_rectangulo.py # Clase para representar un triángulo rectángulo
+
+prueba_figuras.py          # Archivo de prueba para testear las clases
+```
 
 
 ### Descripción de los Archivos
